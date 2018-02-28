@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>epic_links</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+		<nature>org.epic.perleditor.perlinkexternalfilesnature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>1362935376391</name>
+			<type>2</type>
+			<location>/usr/local/share/perl/5.14.2/Text</location>
+		</link>
+		<link>
+			<name>1368464678909</name>
+			<type>2</type>
+			<location>/usr/local/share/perl/5.14.2/Log</location>
+		</link>
+	</linkedResources>
+</projectDescription>

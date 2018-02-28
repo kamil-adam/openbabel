@@ -1,0 +1,61 @@
+,,,,,,,
+,,Ahnung,,,pojęcie,o,1
+,e,Ampel,,,sygnalizacja świetlna,o,1
+,s,Amt,,,urząd,o,1
+,e,Bahn,-;-en,,kolej; pociąg,o,1
+,r,Bahnhof,,,dworzec,o,1
+,e,Bank,,,bank,o,1
+,e,Bauerstraße,,,przecznica,o,1
+,s,Bezirk ?,,,dzielnica,o,1
+,e,Bibliotek,,,biblioteka,o,1
+,e,Bruecke,,bridge,most,o,1
+,r,Bus,-ses;-se,,autobus,o,1
+,e,Bushaltestelle,,,przystanek autobusowy,o,1
+,s,Cafe,,cafe,kawiarnia,o,1
+,r,Fluß,,,rzeka,o,1
+,,Fuß,,,stopa,o,1
+,e,Galerie,,,galeria,o,1
+,r,Garden,,,Ogród,o,1
+,s,Geschäft,,shop,sklep,o,1
+,s,Hotel,,,hotel,o,1
+,e,Information,,,Informacja,o,1
+,s,Kino,,,kino,o,1
+,e,Kreuzung,,,skrzyżowanie,o,1
+,r,Markt,,,rynek,o,1
+,s,Möbel,,,mebel,o,1
+,s,Museum,,,muzeum,o,1
+,r,Palast,,,pałac,o,1
+,r,Park,,,park,o,1
+,r,Platz,,,plac,o,1
+,e,Post,,,poczta,o,1
+,s,Rathause,,,ratusz,o,1
+,s,Rausebiuro,,,biuro podróży,o,1
+,s,Restaurant,,,restauracja,o,1
+,s,Schloß,,,zamek,o,1
+,e,Schule,,,szkoła,o,1
+,e,Siedlung,,,osiedle,o,1
+,s,Stadttor,,,brama miasta,o,1
+,e,Straße,,,ulica,o,1
+,e,Straßenbahn,-;-en,,tramwaj,o,1
+,r,Supermarket,,,supermarket,o,1
+,s,Tor,,,brama,o,1
+,,Tourist,,,turysta,o,1
+,e,Tourist Information,,,informacja turystyczna,o,1
+,e,Universitaet,,,uniwersytet,o,1
+,s,Zentrum,,,centrum,o,1
+,r,Zoo-Garden,,,zoo,o,1
+,,Zug,,,pociąg,o,1
+,,abbiegen,,,skręcać,i,2
+,,biegen,,,obracać,i,2
+,,vorbeigehen,,,przechodzić obok,i,2
+,,baldig,,,rychło,a,3
+,,weiß,,,biały,a,3
+,,bald,,,wkrótce; niebawem,e,4
+,,geradeaus,,,prosto,e,4
+,,links,,,po lewej,e,4
+,,rechts,,,po prawej,e,4
+,,vorbei,,,"mimo, obok",e,4
+,,einfach,,,łatwo,e,4
+,,entlang,,,wzdłuż,e,4
+,,zweite,,,drugi,n,5
+,,dritte,,,trzeci,n,5

@@ -1,0 +1,13 @@
+2013/03/21 07:35:56 lernu2csv file => ligvortoj.de.lernu, 1 => ligvortoj.de
+2013/03/21 07:35:56 lernu2csv file => ligvortoj.pl.lernu, 1 => ligvortoj.pl
+2013/03/21 07:35:56 lernu2csv file => ligvortoj.en.lernu, 1 => ligvortoj.en
+2013/03/21 07:35:56 scal_csv 
+2013/03/21 07:35:56 scal_csv 
+2013/03/21 07:35:56 scal_csv 
+2013/03/21 07:35:56 report_generate langs 3 de en pl 
+2013/03/21 07:35:56 report_generate lang => de
+2013/03/21 07:35:56 report_generate file_name => ../data/temp_csv/de.csv
+2013/03/21 07:35:56 report_generate lang => en
+2013/03/21 07:35:56 report_generate file_name => ../data/temp_csv/en.csv
+2013/03/21 07:35:56 report_generate lang => pl
+2013/03/21 07:35:56 report_generate file_name => ../data/temp_csv/pl.csv
